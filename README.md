@@ -14,4 +14,4 @@
 10. RNNs
 11. Transformers
 
-## Tasks
+## Labs
