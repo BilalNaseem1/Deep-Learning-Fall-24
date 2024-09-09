@@ -19,3 +19,13 @@ This GitHub repository contains lecture notes I created last year while taking t
 ## Labs
 1. [OOP Fundamentals](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/labs/lab-1-OOP-fundamentals.ipynb)
     - [OOP Homework](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/labs/lab-1-OOP-fundamentals-hw.md)
+2. Numpy Fundamentals
+3. Introduction to PyTorch
+4. Running the Model on AWS
+5. Datasets
+6. Dataloaders
+7. Data Preprocessing
+8. Wandb
+9. Losses
+10. Block Processing
+11. Pipelines
