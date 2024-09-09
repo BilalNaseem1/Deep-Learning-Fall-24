@@ -15,5 +15,5 @@
 11. Transformers
 
 ## Labs
-1. [OOP Fundamentals]()
-    - [OOP Homework]()
+1. [OOP Fundamentals](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/labs/lab-1-OOP-fundamentals.ipynb)
+    - [OOP Homework](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/labs/lab-1-OOP-fundamentals-hw.md)
