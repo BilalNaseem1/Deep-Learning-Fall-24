@@ -4,7 +4,7 @@ This GitHub repository contains lecture notes I created last year while taking t
 
 ## Lectures
 1. Introduction
-    - [Lecture 1a](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/lecture_notes/lecture-1a.pdf)
+    - [Lecture 1a - Origins of Deep Learning](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/lecture_notes/lecture-1a.pdf)
 2. Neural Nets As Universal Approximators
 3. Learning the Network
 4. Empirical Risk Minimization
