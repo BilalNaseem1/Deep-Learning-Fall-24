@@ -17,7 +17,8 @@ This GitHub repository contains lecture notes I created last year while taking t
 11. Transformers
 
 ## Labs
-1. [OOP Fundamentals](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/labs/lab-1-OOP-fundamentals.ipynb)
+1. OOP Fundamentals
+    - [OOP Tutorial](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/labs/lab-1-OOP-fundamentals.ipynb)
     - [OOP Homework](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/labs/lab-1-OOP-fundamentals-hw.md)
 2. Numpy Fundamentals
 3. Introduction to PyTorch
