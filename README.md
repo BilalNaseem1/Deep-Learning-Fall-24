@@ -22,8 +22,8 @@ This GitHub repository contains lecture notes I created last year while taking t
     - [OOP Tutorial](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/labs/lab-1-OOP-fundamentals.ipynb)
     - [OOP Homework](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/labs/lab-1-OOP-fundamentals-hw.md)
 2. Vectors and Tensors
-    - Vectors and Tensors using Numpy
-    - Tensors using Torch (colab)
+    - [Vectors and Tensors using Numpy - Tutorial](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/labs/lab-2-Numpy-Vectors-and-Tensors.ipynb)
+    - Tensors using Torch (colab) - Tutorial
 3. Introduction to PyTorch
 4. Running the Model on AWS
 5. Datasets
