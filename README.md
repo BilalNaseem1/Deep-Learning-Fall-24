@@ -17,6 +17,7 @@ This GitHub repository contains lecture notes I created last year while taking t
 9. CNNs
 10. RNNs
 11. Transformers
+12. Reinforcement Learning
 
 ## Labs
 1. OOP Fundamentals
@@ -25,8 +26,9 @@ This GitHub repository contains lecture notes I created last year while taking t
 2. Vectors and Tensors
     - [Lab 2a - Vectors and Tensors using Numpy - Tutorial](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/labs/lab-2-Numpy-Vectors-and-Tensors.ipynb)
     - [Lab 2b - Tensors using Torch (colab) - Tutorial](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/labs/lab-2b-tensors-in-torch.ipynb)
-    - Working with Tensors using GPU (colab) - Tutorial
+    - [Lab 2c - Working with Tensors using GPU (colab) - Tutorial](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/labs/lab-2c-torch-tensors-in-gpu.ipynb)
 3. Introduction to PyTorch
+    - Lab 3a - AutoGrad
 4. Running the Model on AWS
 5. Datasets
 6. Dataloaders
