@@ -7,6 +7,7 @@ This GitHub repository contains lecture notes I created last year while taking t
     - [Lecture 1a - Origins of Deep Learning](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/lecture_notes/lecture-1a.pdf)
     - [Lecture 1b - The Perceptron](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/lecture_notes/lecture-1b.pdf)
 2. Neural Nets As Universal Approximators
+    - [Lecture 2 - Neural Networks as Universal Approximators](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/lecture_notes/lecture-2.pdf)
 3. Learning the Network
 4. Empirical Risk Minimization
 5. Gradient Descent
@@ -23,7 +24,7 @@ This GitHub repository contains lecture notes I created last year while taking t
     - [OOP Homework](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/labs/lab-1-OOP-fundamentals-hw.md)
 2. Vectors and Tensors
     - [Vectors and Tensors using Numpy - Tutorial](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/labs/lab-2-Numpy-Vectors-and-Tensors.ipynb)
-    - Tensors using Torch (colab) - Tutorial
+    - [Tensors using Torch (colab) - Tutorial](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/labs/lab-2b-tensors-in-torch.ipynb)
     - Working with Tensors using GPU (colab) - Tutorial
 3. Introduction to PyTorch
 4. Running the Model on AWS
