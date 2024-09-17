@@ -8,16 +8,16 @@ This GitHub repository contains lecture notes I created last year while taking t
     - [Lecture 1b - The Perceptron](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/lecture_notes/lecture-1b.pdf)
 2. Neural Nets As Universal Approximators
     - [Lecture 2 - Neural Networks as Universal Approximators](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/lecture_notes/lecture-2.pdf)
-3. Learning the Network
-4. Empirical Risk Minimization
-5. Gradient Descent
-6. Backpropagation
-7. Convergence & Momentum
-8. Optimization
-9. CNNs
-10. RNNs
-11. Transformers
-12. Reinforcement Learning
+3. Empirical Risk Minimization
+    - [Lecture 3 - Empirical Risk Minimization](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/lecture_notes/lecture-3.pdf)
+4. Gradient Descent
+5. Backpropagation
+6. Convergence & Momentum
+7. Optimization
+8. CNNs
+9. RNNs
+10. Transformers
+11. Reinforcement Learning
 
 ## Labs
 1. OOP Fundamentals
