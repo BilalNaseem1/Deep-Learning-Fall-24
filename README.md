@@ -15,7 +15,7 @@ This GitHub repository contains lecture notes I created last year while taking t
     - [Lecture 4b - Loss Functions](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/lecture_notes/lecture-4b.pdf)
 5. Backpropagation
     - [Lecture 5a - Calculus Refresher + Forward Pass](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/lecture_notes/lecture-5a.pdf)
-    - [Lecture 5b - Backward Pass]
+    - [Lecture 5b - Backward Pass](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/lecture_notes/lecture-5b.pdf)
     - [Lecture 5c - Vector Formulation]
 6. Convergence & Momentum
 7. Optimization
