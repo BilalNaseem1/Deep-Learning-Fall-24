@@ -1,7 +1,5 @@
 # Deep Learning by Dr. Tahir Syed - Fall 2024
 
-This GitHub repository contains lecture notes I created last year while taking this course. I will periodically upload refined versions of these notes, which you can access via the links below. Additionally, I will be adding lab tutorials. Each tutorial will include an optional but highly recommended homework task designed to complement the lectures and help you develop the skills needed for the course project.
-
 ## Lectures
 1. Introduction
     - [Lecture 1a - Origins of Deep Learning](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/lecture_notes/lecture-1a.pdf)
@@ -18,12 +16,20 @@ This GitHub repository contains lecture notes I created last year while taking t
     - [Lecture 5b - Backward Pass](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/lecture_notes/lecture-5b.pdf)
     - [Lecture 5c - Softmax in depth + ReLU and Subgradients](https://github.com/BilalNaseem1/Deep-Learning-Fall-24/blob/main/lecture_notes/lecture-5c.pdf)
     - [Lecture 5d - Vector Formulation]
-6. Convergence & Momentum
-7. Optimization
-8. CNNs
-9. RNNs
-10. Transformers
-11. Reinforcement Learning
+    - [Computational Graph Practice Problems for Mid-Term](https://cs230.stanford.edu/winter2020/section3_exercises.pdf)
+
+
+### Remaining Topics for Mid-Term
+These are the remaining topics for Mid-Term. Recommended resources to Cover these are [CV course by UMich - L7, 8, 10, 11](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) and [Notes by Matt D. of CS231n](https://mattdeitke.com/notes/cs231n#[53,%22XYZ%22,129.6,307.097,null]) and [DL UC Berkeley Lecture 6 and 7 all parts](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+
+1. CNN
+2. Hyperbolic Activation Functions, Leaky ReLU ..
+3. Data Pre-processing
+4. Weight Initialization
+5. Batch Normalization
+6. Regularization (Dropout and Data Augmentation)
+7. Specific CNN Architectures
+
 
 ## Labs
 1. OOP Fundamentals
