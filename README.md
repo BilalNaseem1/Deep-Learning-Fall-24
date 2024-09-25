@@ -28,7 +28,7 @@ These are the remaining topics for Mid-Term. Recommended resources to Cover thes
 4. Weight Initialization
 5. Batch Normalization
 6. Regularization (Dropout and Data Augmentation)
-7. Specific CNN Architectures
+7. Specific CNN Architectures - DL UC Berkeley Lecture 6 part 3
 
 
 ## Labs
