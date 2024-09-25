@@ -20,7 +20,10 @@
 
 
 ### Remaining Topics for Mid-Term
-These are the remaining topics for Mid-Term. Recommended resources to Cover these are [CV course by UMich - L7, 8, 10, 11](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) and [Notes by Matt D. of CS231n](https://mattdeitke.com/notes/cs231n#[53,%22XYZ%22,129.6,307.097,null]) and [DL UC Berkeley Lecture 6 and 7 all parts](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+These are the remaining topics for Mid-Term. Recommended resources to Cover these are:
+- [CV course by UMich - L7, 8, 10, 11](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+- [Notes by Matt D. of CS231n](https://mattdeitke.com/notes/cs231n#[53,%22XYZ%22,129.6,307.097,null])
+- [DL UC Berkeley Lecture 6 and 7 all parts](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 
 1. CNN
 2. Hyperbolic Activation Functions, Leaky ReLU ..
